@@ -1,6 +1,6 @@
 name: python 3.8
 dependencies:
   - python=3.8
-  - sklearn
+  - scikit-learn
   - matplotlib
   - tensorflow
