@@ -7,5 +7,9 @@
 
 
 # Recommandations
-* I recommand you opening them with google colab; this will allow you to run them without having to install any libraries.
+* I recommand you opening them with google colab (simply click on the badge below); this will allow you to run them without having to install any libraries.
 * During the presentation I highly recommand you coding from scratch. The code is fairly simple and easy to implement. Open a blank google colab presenation and code along !
+
+## Linear Classification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HOORDS/05_deep-learning-intro/blob/main/Linear%20Classification.ipynb)
