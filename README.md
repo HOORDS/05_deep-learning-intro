@@ -12,7 +12,7 @@
 
 ## Linear Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HOORDS/05_deep-learning-intro/blob/main/Linear%20Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HOORDS/05_deep-learning-intro/blob/main/Linear_Classification.ipynb)
 
 ## Multiclass Classification
 
